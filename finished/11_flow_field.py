@@ -115,7 +115,7 @@ def draw():
             py5.rotate(v.heading)
             py5.stroke(0)
             # decomment to show vectors
-            # py5.line(0, 0, 1 * scl, 0)
+            py5.line(0, 0, 1 * scl, 0)
             py5.pop()
         yoff += inc
     zoff +=0.00004

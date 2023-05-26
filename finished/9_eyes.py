@@ -15,7 +15,7 @@ eye = None
 
 eyes_list = []
 
-eyes_num = 8
+eyes_num = 2
 
 
 class Eye:
